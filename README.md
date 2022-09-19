@@ -10,3 +10,7 @@
 2. I tried to use beautifulsoup4 and selenium at the same time in my youtube web scraping project.
   - Output is written in csv format.
     - Link of the youtube page = https://www.youtube.com/user/jacksfilms
+    
+3. Beautifulsoup4 has been used in IMDB data scraping project.
+  - Output is written in csv format.
+    - Link = https://www.imdb.com/chart/top/?ref_=nv_mv_250
